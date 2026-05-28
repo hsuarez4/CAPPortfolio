@@ -55,8 +55,8 @@ body {
 }
 
 .iframe{
-  width="300";
-  height="800";
+  width="500px";
+  height="500px";
   style="border": 0px;
   position: fixed;
   left: 700px;
