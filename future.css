@@ -44,8 +44,8 @@ background-image: url(future.png);
 
 
 .iframe{
-  width="300";
-  height="500";
+  width="300px";
+  height="500px";
   style="border": 0px;
   position: fixed;
   left: 700px;
